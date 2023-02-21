@@ -1,2 +1,2 @@
 # java-dsa-practice
-practice dsa questions in java
+practice DSA questions in java
